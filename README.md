@@ -98,7 +98,7 @@ Sensitive data like API keys and environment variables are excluded using `.giti
 <img width="1919" height="908" alt="Screenshot 2026-04-17 172320" src="https://github.com/user-attachments/assets/62e6e4c2-1d7e-4976-9195-123f0c571095" />
 " />
 <img width="1919" height="904" alt="Screenshot 2026-04-17 172340" src="https://github.com/user-attachments/assets/c4026336-9928-4c21-bbae-fbb156241e4c" />
-" />
+
 
 ## 👨‍💻 Author
 
