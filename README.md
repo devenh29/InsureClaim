@@ -83,7 +83,7 @@ Sensitive data like API keys and environment variables are excluded using `.giti
 * Mobile app support
 
 ---
-<img width="1919" height="907" alt="Screenshot 2026-04-17 172230" src="<img width="1919" height="914" alt="Screenshot 2026-04-17 172403" src="https://github.com/user-attachments/assets/64dc9d2d-88b5-4db1-9f33-880981505367" />
+<img width="1919" height="907" alt="Screenshot 2026-04-17 172230" src=""https://github.com/user-attachments/assets/64dc9d2d-88b5-4db1-9f33-880981505367" />
 " />
 <img width="1919" height="904" alt="Screenshot 2026-04-17 172340" src="<img width="1919" height="908" alt="Screenshot 2026-04-17 172416" src="https://github.com/user-attachments/assets/e51ae1c6-284c-472c-af1d-88db81316532" />
 " />
